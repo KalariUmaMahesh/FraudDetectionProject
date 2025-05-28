@@ -6,11 +6,11 @@ import pickle
 
 app = Flask(__name__)
 
-host = "localhost"
-user = "root"
-password = "uma123"
+host = "frauddetection@alwaysdata.net"
+user = "frauddetection"
+password = "uma@123"
 port = "3306"
-database = "db"
+database = "frauddetection_1"
 
 
 mydb = mysql.connector.connect(host=host, user=user, password=password, port=port, database=database)
