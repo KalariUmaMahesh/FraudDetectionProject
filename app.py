@@ -6,7 +6,7 @@ import pickle
 
 app = Flask(__name__)
 
-host = "frauddetection@alwaysdata.net"
+host = "mysql-frauddetection.alwaysdata.net"
 user = "frauddetection"
 password = "uma@123"
 port = "3306"
