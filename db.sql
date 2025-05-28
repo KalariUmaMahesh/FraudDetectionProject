@@ -1,7 +1,4 @@
 
-drop database if exists db;
-create database db;
-use db;
 
 
 CREATE TABLE `users` (
