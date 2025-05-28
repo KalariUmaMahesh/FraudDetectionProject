@@ -7,7 +7,7 @@ import pickle
 app = Flask(__name__)
 
 host = "mysql-frauddetection.alwaysdata.net"
-user = "frauddetection"
+user = "415555"
 password = "uma@123"
 port = "3306"
 database = "frauddetection_1"
